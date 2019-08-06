@@ -3,7 +3,7 @@
 Para esse desafio vamos utilizar as API’s do Spotify.
 
  - Possibilidade de inserir o nome do artista ou de um album e retornar uma lista de albuns;
- - Quando retornado, o usuário poderá selecionar o album e será direcionado a lista de música desse album.
+ - Quando retornado, o usuário poderá selecionar o album e será direcionado a lista de músicas desse album.
  - Tocar o preview da música.
 
 ### Requisitos básicos
