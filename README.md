@@ -54,6 +54,6 @@ Como nós somos uma das maiores instituições financeiras independentes da Amer
 - Boas práticas e patterns;
 - Código e estrutura da aplicação;
 - Componentização e fluxo do dado.
-- Facilidade de leitura de código (código limpo e fácil é sempre bom **:)**)
+- Facilidade de leitura de código (código limpo e fácil é sempre bom **:)**
 
 Boa sorte e faça o teste da forma que você se sentir confortável.
