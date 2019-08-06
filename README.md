@@ -25,9 +25,9 @@ Quando estiver em uma tela de album ele deve ver as musicas e conseguir ouvir um
 
 ### Telas
 
-![]()
+![](https://github.com/Mauricio32/challenger/blob/master/images/albumPage.jpg)
 
-![]()
+![](https://github.com/Mauricio32/challenger/blob/master/images/list.jpg)
 
 Fique a vontade para fazer as mudanças de UI que achar necessário. =)
 
